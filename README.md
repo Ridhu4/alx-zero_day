@@ -1,1 +1,3 @@
-My first readme
+## My first readme
+
+im learning the basic of markdown
